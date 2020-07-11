@@ -1,0 +1,13 @@
+C:\Users\zhaoy\codecamp2020\visual_studio\Technology\Technology\bin\Debug\netcoreapp3.1\Technology.exe
+C:\Users\zhaoy\codecamp2020\visual_studio\Technology\Technology\bin\Debug\netcoreapp3.1\Technology.deps.json
+C:\Users\zhaoy\codecamp2020\visual_studio\Technology\Technology\bin\Debug\netcoreapp3.1\Technology.runtimeconfig.json
+C:\Users\zhaoy\codecamp2020\visual_studio\Technology\Technology\bin\Debug\netcoreapp3.1\Technology.runtimeconfig.dev.json
+C:\Users\zhaoy\codecamp2020\visual_studio\Technology\Technology\bin\Debug\netcoreapp3.1\Technology.dll
+C:\Users\zhaoy\codecamp2020\visual_studio\Technology\Technology\bin\Debug\netcoreapp3.1\Technology.pdb
+C:\Users\zhaoy\codecamp2020\visual_studio\Technology\Technology\obj\Debug\netcoreapp3.1\Technology.csprojAssemblyReference.cache
+C:\Users\zhaoy\codecamp2020\visual_studio\Technology\Technology\obj\Debug\netcoreapp3.1\Technology.AssemblyInfoInputs.cache
+C:\Users\zhaoy\codecamp2020\visual_studio\Technology\Technology\obj\Debug\netcoreapp3.1\Technology.AssemblyInfo.cs
+C:\Users\zhaoy\codecamp2020\visual_studio\Technology\Technology\obj\Debug\netcoreapp3.1\Technology.csproj.CoreCompileInputs.cache
+C:\Users\zhaoy\codecamp2020\visual_studio\Technology\Technology\obj\Debug\netcoreapp3.1\Technology.dll
+C:\Users\zhaoy\codecamp2020\visual_studio\Technology\Technology\obj\Debug\netcoreapp3.1\Technology.pdb
+C:\Users\zhaoy\codecamp2020\visual_studio\Technology\Technology\obj\Debug\netcoreapp3.1\Technology.genruntimeconfig.cache
